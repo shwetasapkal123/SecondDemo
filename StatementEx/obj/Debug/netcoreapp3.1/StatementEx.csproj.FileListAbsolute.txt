@@ -1,0 +1,14 @@
+D:\LFP183\New folder\SecondDemo\StatementEx\bin\Debug\netcoreapp3.1\StatementEx.exe
+D:\LFP183\New folder\SecondDemo\StatementEx\bin\Debug\netcoreapp3.1\StatementEx.deps.json
+D:\LFP183\New folder\SecondDemo\StatementEx\bin\Debug\netcoreapp3.1\StatementEx.runtimeconfig.json
+D:\LFP183\New folder\SecondDemo\StatementEx\bin\Debug\netcoreapp3.1\StatementEx.runtimeconfig.dev.json
+D:\LFP183\New folder\SecondDemo\StatementEx\bin\Debug\netcoreapp3.1\StatementEx.dll
+D:\LFP183\New folder\SecondDemo\StatementEx\bin\Debug\netcoreapp3.1\StatementEx.pdb
+D:\LFP183\New folder\SecondDemo\StatementEx\obj\Debug\netcoreapp3.1\StatementEx.csproj.AssemblyReference.cache
+D:\LFP183\New folder\SecondDemo\StatementEx\obj\Debug\netcoreapp3.1\StatementEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\LFP183\New folder\SecondDemo\StatementEx\obj\Debug\netcoreapp3.1\StatementEx.AssemblyInfoInputs.cache
+D:\LFP183\New folder\SecondDemo\StatementEx\obj\Debug\netcoreapp3.1\StatementEx.AssemblyInfo.cs
+D:\LFP183\New folder\SecondDemo\StatementEx\obj\Debug\netcoreapp3.1\StatementEx.csproj.CoreCompileInputs.cache
+D:\LFP183\New folder\SecondDemo\StatementEx\obj\Debug\netcoreapp3.1\StatementEx.dll
+D:\LFP183\New folder\SecondDemo\StatementEx\obj\Debug\netcoreapp3.1\StatementEx.pdb
+D:\LFP183\New folder\SecondDemo\StatementEx\obj\Debug\netcoreapp3.1\StatementEx.genruntimeconfig.cache
